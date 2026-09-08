@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm currently working on
+Projects I'm currently working on
 
-- [posture](https://github.com/massyn/posture) - a data extraction module for Continuous Controls Monitoring.
+| Repo | Description | PyPi |
+|-----|------------|---------|
+| [posture](https://github.com/massyn/posture) | A data extraction module for Continuous Controls Monitoring. | [posture]([https://pyp](https://pypi.org/project/posture/) |
+| [mddoco](https://github.com/massyn/mddoco) | Markdown-to-html and pdf generator | [mddoco]([https://pyp](https://pypi.org/project/mddoco/) |
+
 
 - 💬 Ask me about Python, AWS, Security, Cyber, Data engineering.
 - 📫 How to reach me: [Mastodon](https://aus.social/@massyn)
